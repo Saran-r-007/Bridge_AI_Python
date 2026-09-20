@@ -1,5 +1,5 @@
 class studentdetail:
-    college = "sns"
+    college = "sns college of technology"
     year = "4th year"
 
     @staticmethod
