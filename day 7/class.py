@@ -7,7 +7,7 @@ class studentdetail:
         print("hello guys")
     @staticmethod
     def func2():
-        print("hello guys")
+        print("how are you!")
 
 obj1 = studentdetail()
 print(obj1.college)
